@@ -1,5 +1,7 @@
 # Sentiment Analysis
 
+This repository contains a machine learning project for predicting sentiment in text data. Sentiment analysis, also known as opinion mining, is a natural language processing (NLP) task that involves determining the sentiment or emotional tone expressed in a piece of text, such as a review, comment, or tweet. The goal of this project is to build a predictive model that can classify text data as positive, negative, or neutral based on its sentiment.
+
 ## Key Feature
 
 Text Preprocessing:
@@ -23,8 +25,8 @@ https://huggingface.co/spaces/Mangara01/Sentiment-Analysis
   
 ### Text_Message_Analysis.ipynb:
 
-This notebook contains codes for Sentiment Analysis.
+This notebook contains code to build the machine learning.
 
 ### clean_nus_sms.csv:
 
-This csv file contains tables for analysis.
+This csv file contains data for analysis.
